@@ -4,4 +4,4 @@ config/*
 !config/*.example.php
 
 storage/
-vendor/
+/vendor/
