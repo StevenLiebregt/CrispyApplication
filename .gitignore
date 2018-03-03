@@ -1,0 +1,7 @@
+.idea/
+
+config/*
+!config/*.example.php
+
+storage/
+vendor/
